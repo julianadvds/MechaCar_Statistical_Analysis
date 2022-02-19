@@ -20,11 +20,11 @@ The summary statistics show that the R-squared value is 0.7149, indicating that 
 
 ## Summary Statistics on Suspension Coils
 ### Total PSI Summary Table
-![image]https://github.com/julianadvds/MechaCar_Statistical_Analysis/blob/39144771244c5364271d68da829a318987e93e47/Images/Suspension_Coil_summary_stats.png
+![image](https://github.com/julianadvds/MechaCar_Statistical_Analysis/blob/39144771244c5364271d68da829a318987e93e47/Images/Suspension_Coil_summary_stats.png)
 https://github.com/julianadvds/MechaCar_Statistical_Analysis/blob/39144771244c5364271d68da829a318987e93e47/Images/Suspension_Coil_summary_stats.png
 
 ### Lot PSI Summary Table
-![image]https://github.com/julianadvds/MechaCar_Statistical_Analysis/blob/39144771244c5364271d68da829a318987e93e47/Images/Lot_summary_stats.png
+![image](https://github.com/julianadvds/MechaCar_Statistical_Analysis/blob/39144771244c5364271d68da829a318987e93e47/Images/Lot_summary_stats.png)
 https://github.com/julianadvds/MechaCar_Statistical_Analysis/blob/39144771244c5364271d68da829a318987e93e47/Images/Lot_summary_stats.png
 
 The mean, median, variance and standard deviation of the Pounds per Square inch was calculated at the sample level (Total PSI Summary Table) and then at each manufacturing lot level (Lot PSI Summary Table).  
