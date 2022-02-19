@@ -46,4 +46,17 @@ While the total summary statistics indicate that the manufacturing data meets th
 ## T-Tests on Suspension Coils
 
 ### t-test on Total Sample
-![image]()
+![image](https://github.com/julianadvds/MechaCar_Statistical_Analysis/blob/main/Images/t_test_total_sample.png)
+https://github.com/julianadvds/MechaCar_Statistical_Analysis/blob/main/Images/t_test_total_sample.png
+
+### t-test on Lot 1
+![image](https://github.com/julianadvds/MechaCar_Statistical_Analysis/blob/main/Images/t_test_lot_1.png)
+https://github.com/julianadvds/MechaCar_Statistical_Analysis/blob/main/Images/t_test_lot_1.png
+
+### t-test on Lot 2
+![image](https://github.com/julianadvds/MechaCar_Statistical_Analysis/blob/main/Images/t_test_lot_2.png)
+https://github.com/julianadvds/MechaCar_Statistical_Analysis/blob/main/Images/t_test_lot_2.png
+
+### t-test on Lot 3
+![image](https://github.com/julianadvds/MechaCar_Statistical_Analysis/blob/main/Images/t_test_lot_3.png)
+
