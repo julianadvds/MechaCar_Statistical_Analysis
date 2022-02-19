@@ -41,3 +41,9 @@ When the level of granularity is adjusted to analyze the summary stats at the lo
 
 While the total summary statistics indicate that the manufacturing data meets the design specifications, when reviewing at the lot level we can see that that is false and the current manufacturing data does not meet the design specifications due to the variance in lot 3.
 
+
+
+## T-Tests on Suspension Coils
+
+### t-test on Total Sample
+![image]()
