@@ -49,14 +49,35 @@ While the total summary statistics indicate that the manufacturing data meets th
 ![image](https://github.com/julianadvds/MechaCar_Statistical_Analysis/blob/main/Images/t_test_total_sample.png)
 https://github.com/julianadvds/MechaCar_Statistical_Analysis/blob/main/Images/t_test_total_sample.png
 
+The t-test on the population mean (1500) and the total manufacturing sample data has a p-value of 0.06, which is above our significance level of 0.05.  We can conclude that there is no statistical difference between the sample mean and the population mean.  
+
 ### t-test on Lot 1
 ![image](https://github.com/julianadvds/MechaCar_Statistical_Analysis/blob/main/Images/t_test_lot_1.png)
 https://github.com/julianadvds/MechaCar_Statistical_Analysis/blob/main/Images/t_test_lot_1.png
+
+The t-test on the population mean (1500) and the Lot 1 manufacturing data has a p-value of 1, which is above our significance level of 0.05.  We can conclude that there is no statistical difference between the lot 1 mean and the population mean.
 
 ### t-test on Lot 2
 ![image](https://github.com/julianadvds/MechaCar_Statistical_Analysis/blob/main/Images/t_test_lot_2.png)
 https://github.com/julianadvds/MechaCar_Statistical_Analysis/blob/main/Images/t_test_lot_2.png
 
+The t-test on the population mean (1500) and the Lot 1 manufacturing data has a p-value of 0.607, which is above our significance level of 0.05.  We can conclude that there is no statistical difference between the lot 2 mean and the population mean.
+
 ### t-test on Lot 3
 ![image](https://github.com/julianadvds/MechaCar_Statistical_Analysis/blob/main/Images/t_test_lot_3.png)
+
+The t-test on the population mean (1500) and the Lot 1 manufacturing data has a p-value of 0.042, which is below our significance level of 0.05.  We can conclude that there is a statistical difference between the sample mean and the population mean. This is the only lot where we see a statistical difference.  
+
+
+## Study Design: MechaCar vs Competition
+To explore how MechaCar performs against the competition, a statistical analysis between the metrics can be used.  
+
+An effective study requires some key points - metrics, a null and alternate hypothesis and the appropriate statistical test.  To compare the MechaCar against competitors, we first need to determing the key metrics to evaluate.  Based on the current events and the rate of inflation the key metrics to explore for this study are fuel efficiency (mpg), purchase price, maintanence costs.  Performing a statistical test for each metric would effectively determine how MechaCar compares to the competition.   
+
+With the metrics established, the next step is to do tefine the null & alternate hypothesis and significance level.  The null hypothesis could be that there is a difference between MechaCar and the competition.  The alternate hypothesis is that there is no difference between Mechacar and the competition.  The significance value is set at 0.05.
+
+I would recommend using a one-sided t-test.  Each metric would require its own t-test where the p-value from the test is compared to the pre-set significance value.  The one sided t-test is effective to test if there is a significance in the mean between the sample population and the population mean.  If the p-value is greater than the significane level, the null hypothesis fails to reject.    
+
+
+The study would require acccessing or collecting information from MechaCar and the comparable models from the competition.  A suitable size for the Mechacar sample data would be required and the mean of the population for the metrics being tested. 
 
