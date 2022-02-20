@@ -76,7 +76,7 @@ An effective study requires some key points - metrics, a null and alternate hypo
 
 With the metrics established, the next step is to do tefine the null & alternate hypothesis and significance level.  The null hypothesis could be that there is a difference between MechaCar and the competition.  The alternate hypothesis is that there is no difference between Mechacar and the competition.  The significance value is set at 0.05.
 
-I would recommend using a one-sided t-test.  Each metric would require its own t-test where the p-value from the test is compared to the pre-set significance value.  The one sided t-test is effective to test if there is a significance in the mean between the sample population and the population mean.  If the p-value is greater than the significane level, the null hypothesis fails to reject.    
+I would recommend using a one-sided t-test.  Each metric would require its own t-test where the p-value from the test is compared to the pre-set significance value.  The one sided t-test is effective to test if there is a significance in the mean between the sample population and the population mean.  If the p-value is greater than the significane level, the null hypothesis is rejected.    
 
 
 The study would require acccessing or collecting information from MechaCar and the comparable models from the competition.  A suitable size for the Mechacar sample data would be required and the mean of the population for the metrics being tested. 
